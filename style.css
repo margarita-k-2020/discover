@@ -24,7 +24,7 @@ p {
     color: gray; 
 }
 
-a {
+.header p {
     color: aquamarine;
     font-size: 16px;
 }
@@ -32,6 +32,11 @@ a {
 .logo {
     position: block;
     margin-top: 20px;
+}
+
+.logo p {
+    color: aquamarine;
+    font-size: 16px;
 }
 
 footer {
